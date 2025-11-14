@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Library Manager",
+  "description": "A modern, responsive web application for managing a personal book library. Users can add, view, search, and filter books. It includes an AI-powered feature using the Gemini API to provide book recommendations based on user prompts.",
+  "requestFramePermissions": []
+}
